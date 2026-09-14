@@ -2,9 +2,11 @@
 
 Instructional design tool optimized for self-hosted websites leveraging AI.
 
-[**Try useful examples here!**](https://tonelord.github.io/useful-course-examples/)
+[**Try useful examples here!**](https://bytetrie.codeberg.page/useful-course-examples/)
 
-Main repo: [useful](https://github.com/ohmstone/useful).
+[Codeberg Main Repo](https://codeberg.org/bytetrie/useful).
+
+[Github Mirror](https://github.com/bytetrie/useful).
 
 ## Requirements
 
@@ -24,7 +26,7 @@ To run this on your machine you will need:
 - Clone with submodules
 
 ```bash
-git clone --recurse-submodules <repository-url>
+git clone --recurse-submodules https://codeberg.org/bytetrie/useful.git
 ```
 
 - Run the app
@@ -90,7 +92,7 @@ For serving exported courses in production, it is recommended to use:
 ## Contributing
 
 This project is in initial stages. If you find this and want to help, I'd prefer
-PRs over issues. Feel free to reach out anytime to github@tonelord.cc.
+PRs over issues.
 
 ## Goal
 
